@@ -6,7 +6,7 @@ tasty_bytes:
       account: 'not needed'
       user: 'not needed'
       role: DBT_DEV_ROLE
-      database: tasty_bytes_dbt_db
+      database: tasty_bytes_dbt_db_50
       schema: dev
       warehouse: DBT_DEV_WH
       threads: 8
@@ -15,7 +15,7 @@ tasty_bytes:
       account: 'not needed'
       user: 'not needed'
       role: DBT_DEV_ROLE
-      database: tasty_bytes_dbt_db
+      database: tasty_bytes_dbt_db_50
       schema: prod
       warehouse: DBT_DEV_WH
       threads: 8
